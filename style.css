@@ -1,0 +1,30 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+.col-md-6{
+    margin-top: 150px;
+    border:4px solid black;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+input[type=button]{
+    width:100px;
+    background-color:black;
+    color:whitesmoke;
+    font-size: 23px;
+    border-width: 5px;
+    border-color:white;
+    font-weight: bolder;
+
+
+}
+input[type=text]{
+    width:500px;
+    height:50px;
+}
+h2{
+    font-weight: bolder;
+}
+input[type=textarea]{
+    font-size:20px;
+}

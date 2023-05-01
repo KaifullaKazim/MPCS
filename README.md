@@ -1,6 +1,6 @@
 # MPCS
 
-{"TO BE VIEWED ON LAPTOPS/DESKTOPS}
+{"TO BE VIEWED ON LAPTOPS/DESKTOPS"}
 
 Its a web calculator that performs basic arithmetic operations like Addition,Subtraction,Multiplication,Division
 
